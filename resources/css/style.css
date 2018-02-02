@@ -2,6 +2,29 @@ body {
   background-color: black;
 }
 
-p{
-  color: lightgreen;
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
 }
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+  align-self: center;
+}
+
+ h2 {
+   color: white;
+   text-align-last: center;
+ }
+
+
+.other {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+  }
