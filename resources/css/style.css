@@ -13,18 +13,28 @@ h1 {
 .link {
   color: aquamarine;
   font-size: 16px;
-  align-self: center;
+  text-align: center;
 }
 
- h2 {
+ .headings {
+   font-family: Verdana;
+   font-weight: 300;
+   font-size: 42px;
    color: white;
    text-align-last: center;
  }
 
-
-.other {
+p {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
   text-align: center;
+  }
+
+.video {
+    text-align: center;
+  }
+
+.pictures {
+    justify-content: center;
   }
