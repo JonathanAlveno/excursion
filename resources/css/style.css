@@ -35,6 +35,10 @@ p {
     text-align: center;
   }
 
-.pictures {
-    justify-content: center;
+.images {
+text-align: center;
+  }
+
+  .footnote {
+    text-align: right;
   }
